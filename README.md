@@ -1,30 +1,49 @@
-# React Template
+# React.js Template
 
-A started repository with react.js, pre-configured with typescript, shadcn/ui and tailwind css.
+A starter template repository with react.js, pre-configured with typescript, tailwind css and shadcn/ui.
 
-## Getting started
+## Table of contents
 
-Follow these steps to get a copy of the project up and running on your local machine
+- [My process](#my-process)
+  - [Built with](#built-with)
+- [Getting Started](#getting-started)
+  - [Cloning the repository](#cloning-the-repository)
+  - [Installing Dependencies](#installing-dependencies)
+  - [Running the Development Server](#running-the-development-server)
+- [Author](#author)
 
-### Cloning the Repository
+## My process
+
+### Built with
+
+- [React.js](https://react.dev/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Shadcn/UI](https://ui.shadcn.com/)
+
+## Getting Started
+
+Follow these steps to get a copy of the project up and running on your local machine.
+
+### Cloning the repository
 
 ```sh
-git clone https://github.com/krutagna31/react-template.git
+git clone https://github.com/krutagna31/reactjs-template.git
 ```
 
 ### Installing dependencies
 
 ```sh
-cd react-template
+cd reactjs-template
 npm install
-# or
-yarn install
 ```
 
-### Running the Development Server
+### Running the development server
 
 ```sh
-npm run dev
-#or
-yarn dev
+  npm run dev
 ```
+
+## Author
+
+- Website - [Krutagna Patel](https://flowcv.me/krutagna-patel)
